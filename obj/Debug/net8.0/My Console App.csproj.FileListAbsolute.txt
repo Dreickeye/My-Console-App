@@ -1,0 +1,14 @@
+C:\Users\16145\my-app\My Console App\bin\Debug\net8.0\My Console App.exe
+C:\Users\16145\my-app\My Console App\bin\Debug\net8.0\My Console App.deps.json
+C:\Users\16145\my-app\My Console App\bin\Debug\net8.0\My Console App.runtimeconfig.json
+C:\Users\16145\my-app\My Console App\bin\Debug\net8.0\My Console App.dll
+C:\Users\16145\my-app\My Console App\bin\Debug\net8.0\My Console App.pdb
+C:\Users\16145\my-app\My Console App\obj\Debug\net8.0\My Console App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\16145\my-app\My Console App\obj\Debug\net8.0\My Console App.AssemblyInfoInputs.cache
+C:\Users\16145\my-app\My Console App\obj\Debug\net8.0\My Console App.AssemblyInfo.cs
+C:\Users\16145\my-app\My Console App\obj\Debug\net8.0\My Console App.csproj.CoreCompileInputs.cache
+C:\Users\16145\my-app\My Console App\obj\Debug\net8.0\My Console App.dll
+C:\Users\16145\my-app\My Console App\obj\Debug\net8.0\refint\My Console App.dll
+C:\Users\16145\my-app\My Console App\obj\Debug\net8.0\My Console App.pdb
+C:\Users\16145\my-app\My Console App\obj\Debug\net8.0\My Console App.genruntimeconfig.cache
+C:\Users\16145\my-app\My Console App\obj\Debug\net8.0\ref\My Console App.dll
